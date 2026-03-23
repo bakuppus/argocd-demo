@@ -29,3 +29,9 @@ Implement GitOps workflows using ArgoCD on Kubernetes.
 
 ```bash
 kubectl create namespace argocd
+```
+
+### Step 2
+```bash
+kubectl install argocdcli
+```
