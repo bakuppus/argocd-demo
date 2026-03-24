@@ -1,37 +1,28 @@
 ---
-title: GitOps with ArgoCD
-tags: [Kubernetes, GitOps, ArgoCD]
-level: Intermediate
+title: ArgoCD Demo Lab
 ---
 
-# 🚀 GitOps with ArgoCD
+# 🚀 ArgoCD Demo Lab
 
-## ⚡ Lab Quick Insight
-Implement GitOps workflows using ArgoCD on Kubernetes.
+## 🧠 Lab Overview
 
----
+This lab covers:
 
-## 🏗️ Architecture Diagram
-![architecture](./architecture.png)
-
----
-
-## 🧰 Tools Used
-- Kubernetes
-- ArgoCD
-- GitHub
+- GitOps with ArgoCD
+- Kubernetes deployment
+- Canary rollout
 
 ---
 
-## 🚀 Steps
+## 📚 Steps
 
-### Install ArgoCD
+1. Initial Setup  
+2. Create Network  
+3. Create Cluster  
+4. Install Istio  
+5. Deploy App  
+6. Canary Release  
 
-```bash
-kubectl create namespace argocd
-```
+---
 
-### Step 2
-```bash
-kubectl install argocdcli
-```
+👉 Use sidebar to navigate steps →

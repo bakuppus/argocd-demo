@@ -1,0 +1,8 @@
+{
+  "label": "ArgoCD Demo Lab",
+  "position": 1,
+  "link": {
+    "type": "doc",
+    "id": "labs/argocd-demo/index"
+  }
+}
