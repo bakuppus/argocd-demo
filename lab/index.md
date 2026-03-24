@@ -2,9 +2,9 @@
 title: ArgoCD Demo Lab
 ---
 
-# 🚀 ArgoCD Demo Lab
+# ArgoCD Demo Lab
 
-## 🧠 Lab Overview
+## Lab Overview
 
 This lab covers:
 
@@ -14,7 +14,7 @@ This lab covers:
 
 ---
 
-## 📚 Steps
+## Steps
 
 1. Initial Setup  
 2. Create Network  
@@ -25,4 +25,4 @@ This lab covers:
 
 ---
 
-👉 Use sidebar to navigate steps →
+Use sidebar to navigate steps →
