@@ -1,7 +1,7 @@
 
 ---
 
-### ✅ step-2.md
+### step-2.md
 ```md
 ---
 title: Step 2 — Create Network
